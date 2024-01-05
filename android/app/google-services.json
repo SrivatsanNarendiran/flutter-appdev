@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833471535317",
+    "project_id": "universitybuddy-ffb17",
+    "storage_bucket": "universitybuddy-ffb17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833471535317:android:470328d4676ab2e28daa5c",
+        "android_client_info": {
+          "package_name": "com.example.university_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833471535317-t1bnunu7h1044uh4arg6ipov7k6ami2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGe-3gfSPzoZeH_xN--rX31SDvTW1gq_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833471535317-t1bnunu7h1044uh4arg6ipov7k6ami2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
